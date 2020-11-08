@@ -1,4 +1,5 @@
 import java.io.*;
+
 class FileReadByte
 {
 	public static void main(String[] args)throws IOException
