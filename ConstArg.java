@@ -5,18 +5,18 @@ class Area
 	{
 		float r,b,h;
 		int s1,s2;
-		System.out.println("Enter radius of circle");
+		System.out.println("Enter radius of circle :");
 		Scanner S=new Scanner(System.in);
 		r=S.nextFloat();
 		
-		System.out.println("Enter length of Rectangle");
+		System.out.println("Enter length of Rectangle :");
 		s1=S.nextInt();
-		System.out.println("Enter breadth of Rectangle");
+		System.out.println("Enter breadth of Rectangle :");
 		s2=S.nextInt();
 
-		System.out.println("Enter length of triangle");
+		System.out.println("Enter length of triangle :");
 		b=S.nextFloat();
-		System.out.println("Enter height of triangle");
+		System.out.println("Enter height of triangle :");
 		h=S.nextFloat();
 
 		System.out.println("Area of Circle="+area(r,3.14));
