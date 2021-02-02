@@ -1,4 +1,4 @@
-/*class Construct1
+class Construct1
 {
 	public static void main(String[] args)
 	{
@@ -19,8 +19,8 @@ class Test
 	}
 }
 //Output:10
-
-class Construct1
+--------------------------
+class Construct2
 {
 	public static void main(String[] args)
 	{
@@ -41,8 +41,8 @@ class Test
 	}
 }
 //Output:80
-
-class Construct1
+--------------------------
+class Construct3
 {
 	public static void main(String[] args)
 	{
@@ -69,8 +69,8 @@ class Test
 	}
 }
 //Output:70
-
-class Construct1
+--------------------------
+class Construct4
 {
 	public static void main(String[] args)
 	{
@@ -97,9 +97,9 @@ class Test
 	}
 }
 //Output: error: recursive constructor invocation Test() error: compilation failed
+--------------------------
 
-
-class Construct1
+class Construct5
 {
 	public static void main(String[] args)
 	{
@@ -125,8 +125,8 @@ class Test
 	}
 }
 //Output:90
-
-class Construct1
+-----------------------
+class Construct6
 {
 	public static void main(String[] args)
 	{
@@ -153,8 +153,8 @@ class Test
 	}
 }
 //Output:error: recursive constructor invocation Test(int xx) error: compilation failed
-
-class Construct1
+-----------------------------
+class Construct7
 {
 	public static void main(String[] args)
 	{
@@ -175,8 +175,8 @@ class Test
 	}
 }
 //Output:0
-
-class Construct1
+------------------------------------
+class Construct8
 {
 	public static void main(String[] args)
 	{
@@ -197,8 +197,8 @@ class Test
 	}
 }
 //Output:10
-*/
-class Construct1
+---------------------------------
+class Construct9
 {
 	public static void main(String[] args)
 	{
