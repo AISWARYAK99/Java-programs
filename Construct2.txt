@@ -1,0 +1,15 @@
+Constructors in java
+
+3 types:
+->default constructor
+->non parametrised constructor
+->parametrised constructor
+
+*constructor is a special type of method used to initialise an object.
+*constructor has same name as that of a class.
+*It doesn't have a return type.
+*It can be used to initialise values.
+*Default value set to variables by a constructor is 0.
+*Once defined ,the constructor is explicitly called after object is created by the java virtual machine(jvm).
+*Constructors can have access modifiers
+*It cannot be declared as final,static,synchronised or abstract.
