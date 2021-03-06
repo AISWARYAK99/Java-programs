@@ -1,0 +1,21 @@
+*Interface is a collection of constants and """""abstract methods""""".
+
+*They only have method header and no method body.
+
+*Methods do not need to use abstract keyword.They are abstract in default.
+
+*In interface every methods have public visibility in default.No need to mention it.
+
+*A class can implement an interface.
+
+*No problem if a class implements multiple interfaces.
+
+*All methods in interface should be defined by the class implementing it and that class could have its own method too.
+
+*Objects of interfaces cant be created.
+
+*Normally in interfaces abstract methods are alloewd but we can create static methods inside a interface that doent overrides on the class which implement it.
+
+*Java8 allows interfaces to have """""static methods and default methods""""".
+
+*Default methods are methods of complete defintion.We donot need to implement this methods in implementation classes mandatorily.
