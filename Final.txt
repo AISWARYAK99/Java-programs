@@ -1,0 +1,11 @@
+*Final keyword can be used to create constants variable declared as final cant be changed.
+
+*A method declared as final in super class cant be overrided by subclass.Call to final method is resolved during runtime.It is called early binding.
+
+*thus final keyword helps to prevent overriding.
+
+*A class declared as final cant be inherited.
+
+*If we declare a class as final all the methods in it will become final.It can never act as a super class.
+
+*It is illegal to declare a abstract class as final since abstract class is incomplete by itself.
