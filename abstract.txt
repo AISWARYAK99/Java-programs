@@ -1,0 +1,19 @@
+*Abstract methods have no implementation in superclass
+
+*They are subclass responsibility
+
+*The implementation should be there in subclass by overriding these methods
+
+*Thus abstract methods have no method body in superclass
+
+*Objects are not created for abstract classes
+
+*No abstract constructors or no abstract static methods(static methods are those that have complete definition and we cant override these methods in the class that implements it)
+
+*Any subclass of an abstract class must either implement all of the abstract methods in superclass or should be declared as abstract
+
+* we can create an abstract class and no problem if there is no abstract methods.It can have normal methods too
+
+*Although abstract classes cant be used to instantiate objects it can be used to create object references.
+
+*Java RunTime polymorphism(dynamic binding) is implemented through use of superclass references.
